@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Abdalrahman-Alhamod/" align="center" ><img align="center"  alt="" src="https://visitor-badge.laobi.icu/badge?page_id=Abdalrahman-Alhamod.Abdalrahman-Alhamod"></a>
+  <a href="https://github.com/Matteo-Daniele" align="center" ><img align="center"  alt="" src="https://visitor-badge.laobi.icu/badge?page_id=Matteo-Daniele.Matteo-Daniele"></a>
 </p>
 
 ---
@@ -78,7 +78,7 @@ Always learning. Always building. 🚀
 <div align="center">
 <a href="mailto:matteodaniele222@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="www.linkedin.com/in/matteo-daniele-a39b88250"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/danielematteo_)
+<a href="https://instagram.com/danielematteo_"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white"/></a>
 
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
