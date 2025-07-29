@@ -39,7 +39,7 @@ Always learning. Always building. 🚀
  
  <div align=center>
   
-[![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abdalrahman-Alhamod&theme=github_dark)](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Matteo-Daniele&theme=dracula)
+[![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Matteo-Daniele&theme=dracula)]
   
  </div>
  
