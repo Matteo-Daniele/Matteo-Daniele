@@ -30,7 +30,7 @@ Always learning. Always building. 🚀
 
  <div align=center>
 
-![Matteo-Daniele's Stats](https://github-readme-stats.vercel.app/api?username=Matteo-Daniele&theme=kacho_ga&show_icons=true&hide_border=true&count_private=true)
+![Matteo-Daniele's Stats](https://github-readme-stats.vercel.app/api?username=Matteo-Daniele&theme=material-palenight&show_icons=true&hide_border=true&count_private=true)
 <br>
 
 </div>
@@ -47,7 +47,7 @@ Always learning. Always building. 🚀
  
  <div align=center>
   
- ![Matteo-Daniele's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Matteo-Daniele&theme=kacho_ga&hide_border=true)
+ ![Matteo-Daniele's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Matteo-Daniele&theme=material-palenight&hide_border=true)
 
  </div>
  
@@ -59,8 +59,7 @@ Always learning. Always building. 🚀
 
  <div align=center>
   
-![Matteo-Daniele's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Matteo-Daniele&theme=kacho_ga&show_icons=true&hide_border=true&layout=compact)  
-  
+![Matteo-Daniele's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Matteo-Daniele&theme=material-palenight&show_icons=true&hide_border=true&layout=compact)
  </div>
  
  ### 🏆 Profile Trophies
