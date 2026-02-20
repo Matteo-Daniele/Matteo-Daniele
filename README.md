@@ -17,7 +17,7 @@
 
 ---
 
-Hi! I'm Matteo Daniele, a 21-year-old developer from Mar del Plata, Argentina 🇦🇷.
+Hi! I'm Matteo Daniele, a 22-year-old developer from Mar del Plata, Argentina 🇦🇷.
 Graduated from UTN, I specialize in JavaScript, Next.js, and Java.
 I’ve built real-world apps as a freelancer and love turning ideas into code.
 Always learning. Always building. 🚀
